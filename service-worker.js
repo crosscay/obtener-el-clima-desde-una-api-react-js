@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/obtener_el_clima_desde_una_api_con_react/precache-manifest.5628e47ffbc9cad82592f1bcd62f6412.js"
+  "/obtener_el_clima_desde_una_api_con_react/precache-manifest.41f0fe15a035e505cb7634005b6a4c6c.js"
 );
 
 self.addEventListener('message', (event) => {
