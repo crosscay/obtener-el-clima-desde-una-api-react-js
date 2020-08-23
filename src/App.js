@@ -39,6 +39,7 @@ function App() {
       }
     } 
     consultarApi();
+    // eslint-disable-next-line
   }, [consultar]);
 
   let componente;
