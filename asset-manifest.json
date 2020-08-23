@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/obtener_el_clima_desde_una_api_con_react/static/css/main.3e82f7ce.chunk.css",
+    "main.js": "/obtener_el_clima_desde_una_api_con_react/static/js/main.ec80903b.chunk.js",
+    "main.js.map": "/obtener_el_clima_desde_una_api_con_react/static/js/main.ec80903b.chunk.js.map",
+    "runtime-main.js": "/obtener_el_clima_desde_una_api_con_react/static/js/runtime-main.aa1e5c84.js",
+    "runtime-main.js.map": "/obtener_el_clima_desde_una_api_con_react/static/js/runtime-main.aa1e5c84.js.map",
+    "static/js/2.e4072910.chunk.js": "/obtener_el_clima_desde_una_api_con_react/static/js/2.e4072910.chunk.js",
+    "static/js/2.e4072910.chunk.js.map": "/obtener_el_clima_desde_una_api_con_react/static/js/2.e4072910.chunk.js.map",
+    "index.html": "/obtener_el_clima_desde_una_api_con_react/index.html",
+    "precache-manifest.5628e47ffbc9cad82592f1bcd62f6412.js": "/obtener_el_clima_desde_una_api_con_react/precache-manifest.5628e47ffbc9cad82592f1bcd62f6412.js",
+    "service-worker.js": "/obtener_el_clima_desde_una_api_con_react/service-worker.js",
+    "static/css/main.3e82f7ce.chunk.css.map": "/obtener_el_clima_desde_una_api_con_react/static/css/main.3e82f7ce.chunk.css.map",
+    "static/js/2.e4072910.chunk.js.LICENSE.txt": "/obtener_el_clima_desde_una_api_con_react/static/js/2.e4072910.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa1e5c84.js",
+    "static/js/2.e4072910.chunk.js",
+    "static/css/main.3e82f7ce.chunk.css",
+    "static/js/main.ec80903b.chunk.js"
+  ]
+}
