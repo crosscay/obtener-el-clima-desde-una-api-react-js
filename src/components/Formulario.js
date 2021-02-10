@@ -1,6 +1,15 @@
 import React, { useState } from 'react';
 import Error from './Error';
 import PropTypes from 'prop-types';
+import styled from '@emotion/styled';
+
+
+const BotonBuscarClima = styled.input`
+    width: 100% !important;
+    height: 100% !important;
+    /* font-weight: bolder !important; */
+    color: #000000 !important;
+`; 
 
 const Formulario = ({busqueda, guardarBusqueda, guardarConsultar}) => {
 
@@ -72,10 +81,11 @@ const Formulario = ({busqueda, guardarBusqueda, guardarConsultar}) => {
             </div>
 
             <div className="input-field col s12">
-                <input
+                <BotonBuscarClima
                     type="submit"
                     value="Buscar Clima"
-                    className="waves-effect waves-light btn-large btn-block yellow accent-4"
+                    // class waves-effect 
+                    className="waves-light btn-large btn-block yellow accent-4"
                 />
             </div>
         </form>

@@ -1,7 +1,7 @@
 # Obtener el Clima desde una API con react
 Aplicación web creada en react js para obtener el clima desde una api.
 
-### [Demostración](https://crosscay.github.io/obtener_el_clima_desde_una_api_con_react/)
+### [Demostración](https://obtener-el-clima-desde-un-api-react-js.netlify.app/)
 
 ### Sceenshot
 ![clima_react_1](https://user-images.githubusercontent.com/15184739/90982743-d6030580-e52e-11ea-91aa-d62eee516b0e.PNG)
@@ -13,7 +13,7 @@ Aplicación web creada en react js para obtener el clima desde una api.
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/obtener_el_clima_desde_una_api_con_react.git
+$ git clon https://github.com/crosscay/obtener-el-clima-desde-una-api-react-js.git
 $ cd obtener_el_clima_desde_una_api_con_react
 # instala las dependencias del proyecto
 $ npm i
